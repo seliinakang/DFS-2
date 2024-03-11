@@ -1,1 +1,1 @@
-[My project on codepen]: https://codepen.io/pen?template=eYoZxyE
+[My mini assignment on codepen]: https://codepen.io/pen?template=eYoZxyE
